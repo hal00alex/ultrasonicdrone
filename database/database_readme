@@ -1,3 +1,18 @@
-Readme file for database. 
+# Readme file for database. 
 
-Current Owner: Haley
+## Current Owner: Haley 
+
+### Bash/Linux Info 
+- Install: sudo apt-get install mysql-server 
+- Check/Test: servicce mysql status sudo service mysql start
+- Enter Shell: mysql -u root -p 
+- Create New: CREATE DATABASE <name>; 
+- Check: SHOW DATABASES; 
+- Access Database: USE <name>; 
+- Exit Shell: \q 
+- Need more requirments about what part is filling database (python or sql shell) 
+
+### Future Downloads for Web Communication
+- Node.js
+- MongoDB
+- PHP
