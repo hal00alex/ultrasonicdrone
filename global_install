@@ -1,0 +1,4 @@
+#!/bin/bash
+
+#This is the global bash executable. Run using ./global_install. 
+#Keep it up to date and add comments.
